@@ -6,7 +6,7 @@ A Software Engineering student working on his coding skills, making sure each da
 ### Technologies & Tools I work with:
 
 - **Programming Languages:**
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat-square&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat-square&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&)
 
 
 - **Frameworks:**
