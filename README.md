@@ -17,7 +17,7 @@ A Software Engineering student working on his coding skills, making sure each da
    ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 - **Others:**
-![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![GIT](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=flat-square) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/) ![UML](https://img.shields.io/badge/UML-007ACC?style=flat-square&logo=uml&logoColor=white) 
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/) ![UML](https://img.shields.io/badge/UML-007ACC?style=flat-square&logo=uml&logoColor=white) 
 
 
 
